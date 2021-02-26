@@ -1175,6 +1175,7 @@ textarea:focus {
     }
     .box-intro h5 {
         font-size: 12px;
+        width: 100%;
     }
     .main-container {
         padding: 50px 0;
@@ -1187,6 +1188,7 @@ textarea:focus {
     }
     .box-intro h5 {
         font-size: 12px;
+        width: 100%;
     }
     .top-bar h1 {
         font-size: 30px;
