@@ -461,7 +461,7 @@ b i:last-child {
     color: #999;
     line-height: 1.7;
     width: 60%;
-    align-self: center;
+    display: inline-block;
 }
 
 
